@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a software engineer at [Hong Leong Bank](https://www.hlb.com.my/en/personal-banking/home.html) in Kuala Lumpur , MY 🌆
+I'm a software engineer at [Astro](https://www.astro.com.my) in Kuala Lumpur , MY 🌆
 
 
 - 👀  Flutter Dev at day & night
